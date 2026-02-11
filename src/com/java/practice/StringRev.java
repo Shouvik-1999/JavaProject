@@ -10,7 +10,7 @@ public class StringRev {
     }
     public static void main(String[] args) {
         StringRev obj = new StringRev();
-        String str = "Hello, New Programmers!";
+        String str = "Hello, New Programmer!";
         String reversedStr = obj.reverseString(str);
         System.out.println("Original String: " + str);
         System.out.println("Reversed String: " + reversedStr);
